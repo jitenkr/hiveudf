@@ -1,4 +1,4 @@
-package jk.hive2.udf;
+package jk.hive2.hiveudf;
 
 import java.util.ArrayList;
 import java.util.List;
